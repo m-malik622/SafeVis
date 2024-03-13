@@ -29,10 +29,6 @@ We welcome contributions from the community. To contribute to SafeVis, please fo
 
 SafeVis is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
-## Code of Conduct
-
-Please review our [Code of Conduct](CODE_OF_CONDUCT.md) before participating in the SafeVis community.
-
 ## Project Structure
 
 - `app/`: Source code for the SafeVis mobile app.
