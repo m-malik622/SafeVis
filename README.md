@@ -8,7 +8,7 @@ SafeVis is a hazard detection system designed to enhance safety by using image r
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/safevis.git
+git clone https://github.com/m-malik622/safevis.git
 
 2. Install dependencies:
 pip install -r requirements.txt
