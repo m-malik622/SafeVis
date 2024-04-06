@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['0', 'car', 'cars']
+
+roboflow:
+  workspace: zabidas-yt-byjrg
+  project: cardetect-09aer
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/zabidas-yt-byjrg/cardetect-09aer/dataset/1
